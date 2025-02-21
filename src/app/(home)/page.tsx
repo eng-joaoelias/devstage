@@ -3,7 +3,7 @@
 import Image from "next/image";
 
 import { Radio, } from "lucide-react";
-import logo from "../../../assets/logo.svg";
+import logo from "../../assets/logo.svg";
 import Subscribe from "./subscribe";
 
 export default function Home() {
